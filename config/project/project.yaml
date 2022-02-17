@@ -1,0 +1,24 @@
+dateModified: 1645101661
+email:
+  fromEmail: waisalriyanto.rpl2.16@gmail.com
+  fromName: landing-page-craft.com
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    9aade32a-cb40-41b4-b76e-59776081160d: Common # Common
+    9caac479-4301-4ed2-9880-76b4028dcd22: Home # Home
+    486d93ec-5876-4d6e-b235-15963051a3b6: landing-page-craft # landing-page-craft
+    a3ca295a-6e18-4561-922e-ede8c0f90f4c: Home # Home
+    eb7859f1-a74d-4a53-9e88-225a9c6a49bc: landing-page-craft # landing-page-craft
+system:
+  edition: solo
+  live: true
+  name: landing-page-craft.com
+  schemaVersion: 3.7.33
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true

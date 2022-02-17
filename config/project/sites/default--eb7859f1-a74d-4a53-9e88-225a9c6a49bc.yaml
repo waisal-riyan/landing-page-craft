@@ -1,0 +1,9 @@
+baseUrl: '@web'
+enabled: true
+handle: default
+hasUrls: true
+language: en-US
+name: landing-page-craft
+primary: true
+siteGroup: 486d93ec-5876-4d6e-b235-15963051a3b6 # landing-page-craft
+sortOrder: 1
